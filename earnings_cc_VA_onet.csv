@@ -1,0 +1,183 @@
+﻿program,wagemedian,wagepc,debtmedian,debtpc,years,college
+Sign Language Interpretation and Translation,43275,0.47,,,3,Northern Virginia Community College
+"Engineering Technology, General",55228,0.43,,,3,Northern Virginia Community College
+"Construction Trades, General",73185,0.30,,,3,Northern Virginia Community College
+"Visual and Performing Arts, General",20188,0.35,5564,0.16,3,Northern Virginia Community College
+Clinical/Medical Laboratory Technician,48399,0.54,10448,0.37,3,Northern Virginia Community College
+"Visual and Performing Arts, Other",23343,0.42,16413,0.22,3,Northern Virginia Community College
+Health Information/Medical Records Technology/Technician,44298,0.61,7862,0.38,3,Northern Virginia Community College
+Respiratory Care Therapy/Therapist,57897,0.56,14466,0.48,3,Northern Virginia Community College
+Architectural Technology/Technician,43092,0.33,7588,0.23,3,Northern Virginia Community College
+"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",68022,0.59,12010,0.2,3,Northern Virginia Community College
+"Hospitality Administration/Management, General",38678,0.39,11407,0.18,3,Northern Virginia Community College
+Emergency Medical Technology/Technician (EMT Paramedic),74438,0.50,13023,0.13,3,Northern Virginia Community College
+"Design and Visual Communications, General",42888,0.37,10384,0.14,3,Northern Virginia Community College
+Physical Therapy Technician/Assistant,47923,0.60,19100,0.35,3,Northern Virginia Community College
+Automobile/Automotive Mechanics Technology/Technician,44522,0.52,9454,0.19,3,Northern Virginia Community College
+Child Care Provider/Assistant,32066,0.49,11477,0.18,3,Northern Virginia Community College
+"Accounting and Related Services, Other",46814,0.41,10921,0.18,3,Northern Virginia Community College
+Radiologic Technology/Science - Radiographer,61911,0.68,16667,0.38,3,Northern Virginia Community College
+Legal Assistant/Paralegal,47499,0.36,14156,0.27,3,Northern Virginia Community College
+Veterinary/Animal Health Technology/Technician and Veterinary Assistant,38183,0.64,9470,0.26,3,Northern Virginia Community College
+Dental Hygiene/Hygienist,67788,0.71,17893,0.61,3,Northern Virginia Community College
+"Computer and Information Sciences, General",65910,0.52,10596,0.21,3,Northern Virginia Community College
+"Business Administration, Management and Operations, Other",45899,0.39,10448,0.17,3,Northern Virginia Community College
+Criminal Justice/Law Enforcement Administration,41483,0.54,9766,0.22,3,Northern Virginia Community College
+Registered Nursing/Registered Nurse,63749,0.54,18642,0.24,3,Northern Virginia Community College
+Fire Science/Fire-fighting,73366,0.59,,,1.5,Northern Virginia Community College
+Diagnostic Medical Sonography/Sonographer and Ultrasound Technician,63947,0.76,15999,0.62,1.5,Northern Virginia Community College
+"Engineering Technology, General",44608,0.32,17214,0.37,1.5,Northern Virginia Community College
+"Construction Trades, General",64500,0.47,15832,0.29,1.5,Northern Virginia Community College
+Health Information/Medical Records Technology/Technician,33503,0.58,12464,0.4,1.5,Northern Virginia Community College
+Photography,30669,0.32,16854,0.25,1.5,Northern Virginia Community College
+Clinical/Medical Laboratory Technician,48374,0.62,18860,0.53,1.5,Northern Virginia Community College
+Respiratory Care Therapy/Therapist,56056,0.58,26793,0.45,1.5,Northern Virginia Community College
+Interior Design,26163,0.41,11160,0.23,1.5,Northern Virginia Community College
+"Hospitality Administration/Management, General",31090,0.35,13706,0.28,1.5,Northern Virginia Community College
+Emergency Medical Technology/Technician (EMT Paramedic),53426,0.50,18808,0.32,1.5,Northern Virginia Community College
+Physical Therapy Technician/Assistant,46892,0.79,19794,0.5,1.5,Northern Virginia Community College
+"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",51156,0.64,12507,0.31,1.5,Northern Virginia Community College
+"Design and Visual Communications, General",27586,0.43,15877,0.28,1.5,Northern Virginia Community College
+Dental Hygiene/Hygienist,68788,0.82,20776,0.6,1.5,Northern Virginia Community College
+Radiologic Technology/Science - Radiographer,52523,0.82,20784,0.52,1.5,Northern Virginia Community College
+Automobile/Automotive Mechanics Technology/Technician,36463,0.55,12864,0.32,1.5,Northern Virginia Community College
+"Accounting and Related Services, Other",41457,0.40,13952,0.29,1.5,Northern Virginia Community College
+Legal Assistant/Paralegal,33668,0.35,15123,0.39,1.5,Northern Virginia Community College
+Veterinary/Animal Health Technology/Technician and Veterinary Assistant,35924,0.82,16559,0.44,1.5,Northern Virginia Community College
+"Computer and Information Sciences, General",47083,0.44,15626,0.38,1.5,Northern Virginia Community College
+Child Care Provider/Assistant,27699,0.45,18808,0.29,1.5,Northern Virginia Community College
+"Business Administration, Management and Operations, Other",39108,0.42,18858,0.31,1.5,Northern Virginia Community College
+Criminal Justice/Law Enforcement Administration,33601,0.38,10914,0.34,1.5,Northern Virginia Community College
+Registered Nursing/Registered Nurse,57388,0.49,19787,0.51,1.5,Northern Virginia Community College
+Respiratory Care Therapy/Therapist,47913,0.90,16018,0.6,1.5,Tidewater Community College
+Industrial Electronics Technology/Technician,38186,0.37,8530,0.45,1.5,Tidewater Community College
+"Funeral Service and Mortuary Science, General",35773,0.69,10735,0.5,1.5,Tidewater Community College
+Health Information/Medical Records Technology/Technician,33618,0.67,11634,0.59,1.5,Tidewater Community College
+Fire Science/Fire-fighting,61604,0.55,6702,0.3,1.5,Tidewater Community College
+CAD/CADD Drafting and/or Design Technology/Technician,33720,0.51,10426,0.33,1.5,Tidewater Community College
+"Hospitality Administration/Management, General",22763,0.45,18242,0.39,1.5,Tidewater Community College
+Physical Therapy Technician/Assistant,43294,0.84,15515,0.6,1.5,Tidewater Community College
+Occupational Therapist Assistant,39826,0.79,15630,0.49,1.5,Tidewater Community College
+Electrician,49772,0.43,16332,0.28,1.5,Tidewater Community College
+"Cooking and Related Culinary Arts, General",20015,0.60,14186,0.56,1.5,Tidewater Community College
+"Visual and Performing Arts, Other",16466,0.37,10517,0.42,1.5,Tidewater Community College
+Automobile/Automotive Mechanics Technology/Technician,34353,0.61,10726,0.41,1.5,Tidewater Community College
+Radiologic Technology/Science - Radiographer,43760,0.64,18218,0.45,1.5,Tidewater Community College
+Legal Assistant/Paralegal,26975,0.50,13091,0.51,1.5,Tidewater Community College
+Emergency Medical Technology/Technician (EMT Paramedic),53146,0.67,9407,0.36,1.5,Tidewater Community College
+"Accounting and Related Services, Other",31238,0.50,13586,0.5,1.5,Tidewater Community College
+"Design and Visual Communications, General",20572,0.45,13684,0.38,1.5,Tidewater Community College
+"Business Administration, Management and Operations, Other",31575,0.45,18707,0.44,1.5,Tidewater Community College
+Child Care Provider/Assistant,17441,0.42,13947,0.48,1.5,Tidewater Community College
+Career Services Certificate,22855,0.41,22233,0.65,1.5,Tidewater Community College
+"Computer and Information Sciences, General",35248,0.53,11000,0.4,1.5,Tidewater Community College
+"Business Operations Support and Secretarial Services, Other",21816,0.58,12790,0.55,1.5,Tidewater Community College
+Criminal Justice/Law Enforcement Administration,25445,0.49,11844,0.44,1.5,Tidewater Community College
+Registered Nursing/Registered Nurse,50278,0.57,15439,0.56,1.5,Tidewater Community College
+"Cooking and Related Culinary Arts, General",23162,0.48,13465,0.45,3,Tidewater Community College
+Diagnostic Medical Sonography/Sonographer and Ultrasound Technician,57601,0.78,13016,0.49,3,Tidewater Community College
+"Industrial Production Technologies/Technicians, Other",59807,0.51,12533,0.17,3,Tidewater Community College
+Respiratory Care Therapy/Therapist,52367,0.75,12165,0.45,3,Tidewater Community College
+Career Services Certificate,26769,0.56,15529,0.7,3,Tidewater Community College
+Electrician,60547,0.47,10413,0.16,3,Tidewater Community College
+Fire Science/Fire-fighting,61099,0.69,6949,0.22,3,Tidewater Community College
+Health Information/Medical Records Technology/Technician,40974,0.59,8402,0.51,3,Tidewater Community College
+Automobile/Automotive Mechanics Technology/Technician,46163,0.63,6932,0.3,3,Tidewater Community College
+Occupational Therapist Assistant,40654,0.70,9572,0.37,3,Tidewater Community College
+"Visual and Performing Arts, Other",24756,0.42,7065,0.31,3,Tidewater Community College
+CAD/CADD Drafting and/or Design Technology/Technician,46489,0.47,9193,0.24,3,Tidewater Community College
+Physical Therapy Technician/Assistant,46580,0.72,10424,0.46,3,Tidewater Community College
+Emergency Medical Technology/Technician (EMT Paramedic),64168,0.51,8928,0.22,3,Tidewater Community College
+"Hospitality Administration/Management, General",29476,0.53,10455,0.39,3,Tidewater Community College
+Legal Assistant/Paralegal,32594,0.44,10498,0.42,3,Tidewater Community College
+Radiologic Technology/Science - Radiographer,45897,0.67,9434,0.47,3,Tidewater Community College
+"Accounting and Related Services, Other",36630,0.49,7664,0.45,3,Tidewater Community College
+"Business Operations Support and Secretarial Services, Other",28105,0.50,7521,0.39,3,Tidewater Community College
+"Design and Visual Communications, General",27151,0.43,7134,0.38,3,Tidewater Community College
+"Computer and Information Sciences, General",45233,0.58,9792,0.37,3,Tidewater Community College
+Registered Nursing/Registered Nurse,57280,0.59,10511,0.27,3,Tidewater Community College
+"Business Administration, Management and Operations, Other",37815,0.49,8925,0.29,3,Tidewater Community College
+Child Care Provider/Assistant,20417,0.39,7105,0.35,3,Tidewater Community College
+Criminal Justice/Law Enforcement Administration,38067,0.58,9451,0.36,3,Tidewater Community College
+Industrial Technology/Technician,57709,0.81,,,1.5,Blue Ridge Community College
+"Accounting and Related Services, Other",32695,0.70,,,1.5,Blue Ridge Community College
+"Mechanical Engineering Related Technologies/Technicians, Other",42251,0.50,18999,0.28,1.5,Blue Ridge Community College
+"Computer and Information Sciences, General",27757,0.68,,,1.5,Blue Ridge Community College
+"Electrical, Electronic and Communications Engineering Technology/Technician",39645,0.67,14350,0.29,1.5,Blue Ridge Community College
+Airframe Mechanics and Aircraft Maintenance Technology/Technician,35439,0.57,12839,0.53,1.5,Blue Ridge Community College
+Career Services Certificate,20393,0.53,18048,0.52,1.5,Blue Ridge Community College
+Criminal Justice/Law Enforcement Administration,33506,0.60,11769,0.41,1.5,Blue Ridge Community College
+"Business Administration, Management and Operations, Other",29001,0.64,12909,0.43,1.5,Blue Ridge Community College
+Veterinary/Animal Health Technology/Technician and Veterinary Assistant,30432,0.86,14617,0.43,1.5,Blue Ridge Community College
+Registered Nursing/Registered Nurse,49324,0.69,12385,0.42,1.5,Blue Ridge Community College
+Airframe Mechanics and Aircraft Maintenance Technology/Technician,40518,0.59,,,3,Blue Ridge Community College
+Career Services Certificate,23206,0.61,9918,0.36,3,Blue Ridge Community College
+"Mechanical Engineering Related Technologies/Technicians, Other",59473,0.76,,,3,Blue Ridge Community College
+"Accounting and Related Services, Other",36380,0.70,11565,0.26,3,Blue Ridge Community College
+"Computer and Information Sciences, General",41528,0.57,9446,0.3,3,Blue Ridge Community College
+Criminal Justice/Law Enforcement Administration,37859,0.67,11632,0.19,3,Blue Ridge Community College
+"Electrical, Electronic and Communications Engineering Technology/Technician",48821,0.69,11886,0.2,3,Blue Ridge Community College
+Registered Nursing/Registered Nurse,56717,0.71,10685,0.25,3,Blue Ridge Community College
+"Business Administration, Management and Operations, Other",33058,0.66,9945,0.31,3,Blue Ridge Community College
+Veterinary/Animal Health Technology/Technician and Veterinary Assistant,34109,0.77,11275,0.3,3,Blue Ridge Community College
+Clinical/Medical Laboratory Technician,39135,0.75,7422,0.62,1.5,Central Virginia Community College
+"Design and Visual Communications, General",18007,0.50,5500,0.34,1.5,Central Virginia Community College
+"Accounting and Related Services, Other",37516,0.62,,,1.5,Central Virginia Community College
+"Engineering Technology, General",35076,0.71,9907,0.26,1.5,Central Virginia Community College
+Respiratory Care Therapy/Therapist,45160,0.67,12969,0.42,1.5,Central Virginia Community College
+"Business Operations Support and Secretarial Services, Other",19741,0.73,5823,0.18,1.5,Central Virginia Community College
+Criminal Justice/Law Enforcement Administration,30112,0.68,7500,0.32,1.5,Central Virginia Community College
+"Business Administration, Management and Operations, Other",32346,0.70,,,1.5,Central Virginia Community College
+Radiologic Technology/Science - Radiographer,38577,0.66,7970,0.38,1.5,Central Virginia Community College
+Industrial Technology/Technician,44429,0.69,7959,0.16,1.5,Central Virginia Community College
+Emergency Medical Technology/Technician (EMT Paramedic),48116,0.55,9938,0.27,1.5,Central Virginia Community College
+Clinical/Medical Laboratory Technician,37721,0.70,,,3,Central Virginia Community College
+Criminal Justice/Law Enforcement Administration,40361,0.81,,,3,Central Virginia Community College
+"Design and Visual Communications, General",32018,0.68,,,3,Central Virginia Community College
+"Computer and Information Sciences, General",32949,0.59,,,3,Central Virginia Community College
+"Accounting and Related Services, Other",33997,0.68,,0,3,Central Virginia Community College
+Respiratory Care Therapy/Therapist,41160,0.50,,,3,Central Virginia Community College
+"Business Administration, Management and Operations, Other",31726,0.53,,,3,Central Virginia Community College
+"Business Operations Support and Secretarial Services, Other",24210,0.59,,,3,Central Virginia Community College
+Emergency Medical Technology/Technician (EMT Paramedic),55024,0.58,,,3,Central Virginia Community College
+Radiologic Technology/Science - Radiographer,39823,0.69,,,3,Central Virginia Community College
+Industrial Technology/Technician,69662,0.76,,,3,Central Virginia Community College
+Criminal Justice/Law Enforcement Administration,27214,0.76,9326,0.52,1.5,Lancaster Community College
+"Computer and Information Sciences, General",17872,0.56,11156,0.56,1.5,Lancaster Community College
+"Business Administration, Management and Operations, Other",24524,0.71,11920,0.5,1.5,Lancaster Community College
+"Natural Resources/Conservation, General",36292,0.59,9920,0.46,1.5,Lancaster Community College
+Registered Nursing/Registered Nurse,49320,0.56,15981,0.59,1.5,Lancaster Community College
+"Business Administration, Management and Operations, Other",28802,0.64,8233,0.4,3,Lancaster Community College
+"Computer and Information Sciences, General",32899,0.65,,,3,Lancaster Community College
+Criminal Justice/Law Enforcement Administration,33693,0.59,10678,0.35,3,Lancaster Community College
+"Natural Resources/Conservation, General",40949,0.72,8105,0.34,3,Lancaster Community College
+Registered Nursing/Registered Nurse,55863,0.53,14440,0.33,3,Lancaster Community College
+"Accounting and Related Services, Other",24462,0.53,6432,0.37,1.5,Danville Community College
+"Allied Health Diagnostic, Intervention, and Treatment Professions, Other",35783,0.80,7030,0.53,1.5,Danville Community College
+Industrial Technology/Technician,45326,0.75,5541,0.2,1.5,Danville Community College
+"Business Operations Support and Secretarial Services, Other",21799,0.59,8905,0.32,1.5,Danville Community College
+Criminal Justice/Law Enforcement Administration,27465,0.56,7916,0.32,1.5,Danville Community College
+Child Care Provider/Assistant,15061,0.55,6829,0.33,1.5,Danville Community College
+Registered Nursing/Registered Nurse,49930,0.77,8904,0.59,1.5,Danville Community College
+"Computer and Information Sciences, General",25158,0.46,6941,0.28,1.5,Danville Community College
+"Business Administration, Management and Operations, Other",22829,0.58,8436,0.27,1.5,Danville Community College
+"Allied Health Diagnostic, Intervention, and Treatment Professions, Other",41323,0.61,5801,0.32,3,Danville Community College
+Registered Nursing/Registered Nurse,59713,0.70,8397,0.5,3,Danville Community College
+Industrial Technology/Technician,48635,0.85,,,3,Danville Community College
+Criminal Justice/Law Enforcement Administration,34997,0.49,4478,0.23,3,Danville Community College
+"Business Operations Support and Secretarial Services, Other",24850,0.66,4478,0.17,3,Danville Community College
+"Computer and Information Sciences, General",33929,0.48,5500,0.17,3,Danville Community College
+Child Care Provider/Assistant,19141,0.56,4444,0.12,3,Danville Community College
+"Business Administration, Management and Operations, Other",28351,0.55,4021,0.17,3,Danville Community College
+Industrial Electronics Technology/Technician,52484,0.80,,,3,Piedmont Virginia Community College
+Radiologic Technology/Science - Radiographer,50869,0.91,6717,0.39,3,Piedmont Virginia Community College
+"Computer and Information Sciences, General",47501,0.79,,,3,Piedmont Virginia Community College
+Criminal Justice/Law Enforcement Administration,41476,0.60,7926,0.32,3,Piedmont Virginia Community College
+"Business Administration, Management and Operations, Other",44008,0.74,9048,0.28,3,Piedmont Virginia Community College
+Registered Nursing/Registered Nurse,60847,0.57,14405,0.26,3,Piedmont Virginia Community College
+Emergency Medical Technology/Technician (EMT Paramedic),52839,0.67,8416,0.43,1.5,Piedmont Virginia Community College
+"Business Administration, Management and Operations, Other",37276,0.70,7714,0.43,1.5,Piedmont Virginia Community College
+"Computer and Information Sciences, General",35707,0.69,10948,0.35,1.5,Piedmont Virginia Community College
+Criminal Justice/Law Enforcement Administration,33090,0.58,7250,0.48,1.5,Piedmont Virginia Community College
+Radiologic Technology/Science - Radiographer,38986,0.81,9670,0.51,1.5,Piedmont Virginia Community College
+Registered Nursing/Registered Nurse,52861,0.55,14920,0.52,1.5,Piedmont Virginia Community College

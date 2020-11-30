@@ -1,0 +1,55 @@
+﻿county,category,item,adults,0child,1child,2child,3child
+Arlington,expenditure,Food,1 adult,3010,4446,6682,8863
+Arlington,expenditure,Child Care,1 adult,0,8566,12255,15943
+Arlington,expenditure,Medical,1 adult,2764,8605,8317,8437
+Arlington,expenditure,Housing,1 adult,16980,19980,19980,26112
+Arlington,expenditure,Transportation,1 adult,4322,8425,10689,11645
+Arlington,expenditure,Other,1 adult,2812,4688,4867,6123
+Arlington,expenditure,Required annual income after taxes,1 adult,29888,54710,62790,77122
+Arlington,expenditure,Annual taxes,1 adult,5146,9837,11368,14020
+Arlington,expenditure,Required annual income before taxes,1 adult,35034,64547,74158,91142
+Albemarle,expenditure,Food,1 adult,3010,4446,6682,8863
+Albemarle,expenditure,Child Care,1 adult,0,8566,12255,15943
+Albemarle,expenditure,Medical,1 adult,2764,8605,8317,8437
+Albemarle,expenditure,Housing,1 adult,10212,15900,15900,19920
+Albemarle,expenditure,Transportation,1 adult,4322,8425,10689,11645
+Albemarle,expenditure,Other,1 adult,2812,4688,4867,6123
+Albemarle,expenditure,Required annual income after taxes,1 adult,23120,50630,58710,70930
+Albemarle,expenditure,Annual taxes,1 adult,4202,9267,10799,13156
+Albemarle,expenditure,Required annual income before taxes,1 adult,27322,59897,69509,84086
+Arlington,expenditure,Food,2 adult 1 work,5518,6877,8872,10802
+Arlington,expenditure,Child Care,2 adult 1 work,0,0,0,0
+Arlington,expenditure,Medical,2 adult 1 work,5967,8317,8437,8339
+Arlington,expenditure,Housing,2 adult 1 work,17448,19980,19980,26112
+Arlington,expenditure,Transportation,2 adult 1 work,8425,10689,11645,12206
+Arlington,expenditure,Other,2 adult 1 work,4688,4867,6123,6126
+Arlington,expenditure,Required annual income after taxes,2 adult 1 work,42047,50730,55057,63585
+Arlington,expenditure,Annual taxes,2 adult 1 work,7456,9082,9902,11455
+Arlington,expenditure,Required annual income before taxes,2 adult 1 work,49503,59813,64959,75040
+Albemarle,expenditure,Food,2 adult 1 work,5518,6877,8872,10802
+Albemarle,expenditure,Child Care,2 adult 1 work,0,0,0,0
+Albemarle,expenditure,Medical,2 adult 1 work,5967,8317,8437,8339
+Albemarle,expenditure,Housing,2 adult 1 work,13752,15900,15900,19920
+Albemarle,expenditure,Transportation,2 adult 1 work,8425,10689,11645,12206
+Albemarle,expenditure,Other,2 adult 1 work,4688,4867,6123,6126
+Albemarle,expenditure,Required annual income after taxes,2 adult 1 work,38351,46650,50977,57393
+Albemarle,expenditure,Annual taxes,2 adult 1 work,6941,8513,9333,10591
+Albemarle,expenditure,Required annual income before taxes,2 adult 1 work,45291,55163,60310,67984
+Arlington,expenditure,Food,2 adult 2 work,5518,6877,8872,10802
+Arlington,expenditure,Child Care,2 adult 2 work,0,8566,12255,15943
+Arlington,expenditure,Medical,2 adult 2 work,5967,8317,8437,8339
+Arlington,expenditure,Housing,2 adult 2 work,17448,19980,19980,26112
+Arlington,expenditure,Transportation,2 adult 2 work,8425,10689,11645,12206
+Arlington,expenditure,Other,2 adult 2 work,4688,4867,6123,6126
+Arlington,expenditure,Required annual income after taxes,2 adult 2 work,42047,59296,67312,79528
+Arlington,expenditure,Annual taxes,2 adult 2 work,7456,10706,12225,14476
+Arlington,expenditure,Required annual income before taxes,2 adult 2 work,49503,70002,79536,94004
+Albemarle,expenditure,Food,2 adult 2 work,5518,6877,8872,10802
+Albemarle,expenditure,Child Care,2 adult 2 work,0,8566,12255,15943
+Albemarle,expenditure,Medical,2 adult 2 work,5967,8317,8437,8339
+Albemarle,expenditure,Housing,2 adult 2 work,13752,15900,15900,19920
+Albemarle,expenditure,Transportation,2 adult 2 work,8425,10689,11645,12206
+Albemarle,expenditure,Other,2 adult 2 work,4688,4867,6123,6126
+Albemarle,expenditure,Required annual income after taxes,2 adult 2 work,38351,55216,63232,73336
+Albemarle,expenditure,Annual taxes,2 adult 2 work,6941,10136,11655,13612
+Albemarle,expenditure,Required annual income before taxes,2 adult 2 work,45291,65353,74887,86948

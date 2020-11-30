@@ -1,0 +1,19 @@
+﻿county,category,item,adults,0child,1child,2child,3child
+Arlington,wage,Living Wage,1 adult,16.84,31.03,35.65,43.82
+Arlington,wage,Poverty Wage,1 adult,6,8.13,10.25,12.38
+Arlington,wage,Minimum Wage,1 adult,7.25,7.25,7.25,7.25
+Albemarle,wage,Living Wage,1 adult,13.14,28.8,33.42,40.43
+Albemarle,wage,Poverty Wage,1 adult,6,8.13,10.25,12.38
+Albemarle,wage,Minimum Wage,1 adult,7.25,7.25,7.25,7.25
+Arlington,wage,Living Wage,2 adult 1 work,23.8,28.76,31.23,36.08
+Arlington,wage,Poverty Wage,2 adult 1 work,8.13,10.25,12.38,14.5
+Arlington,wage,Minimum Wage,2 adult 1 work,7.25,7.25,7.25,7.25
+Albemarle,wage,Living Wage,2 adult 1 work,21.77,26.52,29,32.68
+Albemarle,wage,Poverty Wage,2 adult 1 work,8.13,10.25,12.38,14.5
+Albemarle,wage,Minimum Wage,2 adult 1 work,7.25,7.25,7.25,7.25
+Arlington,wage,Living Wage,2 adult 2 work,11.9,16.83,19.12,22.6
+Arlington,wage,Poverty Wage,2 adult 2 work,4.06,5.13,6.19,7.25
+Arlington,wage,Minimum Wage,2 adult 2 work,7.25,7.25,7.25,7.25
+Albemarle,wage,Living Wage,2 adult 2 work,10.89,15.71,18,20.9
+Albemarle,wage,Poverty Wage,2 adult 2 work,4.06,5.13,6.19,7.25
+Albemarle,wage,Minimum Wage,2 adult 2 work,7.25,7.25,7.25,7.25
